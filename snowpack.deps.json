@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "canvas-confetti": "^1.4.0"
+  },
+  "lock": {
+    "canvas-confetti#^1.4.0": "canvas-confetti@v1.4.0-X2Ua6i86H8as6Up9Zit3"
+  }
+}
